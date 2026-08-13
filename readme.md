@@ -9,7 +9,7 @@
        &nbsp;&nbsp;&nbsp; ◌ Microsoft Graph <br/>
        &nbsp;&nbsp;&nbsp; ◌ React <br/>
        &nbsp;&nbsp;&nbsp; ◌ TypeScript <br/>
-       &nbsp;&nbsp;&nbsp; ◌ CoPilot <br/>
+       &nbsp;&nbsp;&nbsp; ◌ Copilot <br/>
 • 📖 Notebooks  
        &nbsp;&nbsp;&nbsp; ◌ [SPFx](https://github.com/Diksha-Bhura/SPFx)  
        &nbsp;&nbsp;&nbsp; ◌ [Power Platform](https://github.com/Diksha-Bhura/PowerPlatform)  
