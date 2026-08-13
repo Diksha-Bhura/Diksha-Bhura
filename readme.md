@@ -1,15 +1,15 @@
 ## Hey, Diksha Bhura (❁´◡`❁)  
 
-• 👩🏻‍💻 Former IT Developer III @ Td Bank, Software Engineer @ baliosoft solutions pvt ltd and SWE at Viaan Technologies. Also worked solely as a SharePoint consulted.
+• 👩🏻‍💻 Former IT Developer III @ TD Bank, Software Engineer @ baliosoft solutions pvt ltd and SWE at Viaan Technologies. Also worked solely as a SharePoint consultant.<br/>
 • 🔥 Passionate about learning more and contributing to the Organization/Community.  
 • 💗 Loving areas and expertise in    
-       &nbsp;&nbsp;&nbsp; ◌ SharePoint 
-       &nbsp;&nbsp;&nbsp; ◌ SPFx
-       &nbsp;&nbsp;&nbsp; ◌ Power Platform  
-       &nbsp;&nbsp;&nbsp; ◌ Microsoft Graph
-       &nbsp;&nbsp;&nbsp; ◌ React
-       &nbsp;&nbsp;&nbsp; ◌ TypeScript
-       &nbsp;&nbsp;&nbsp; ◌ CoPilot
+       &nbsp;&nbsp;&nbsp; ◌ SharePoint <br/>
+       &nbsp;&nbsp;&nbsp; ◌ SPFx <br/>
+       &nbsp;&nbsp;&nbsp; ◌ Power Platform  <br/>
+       &nbsp;&nbsp;&nbsp; ◌ Microsoft Graph <br/>
+       &nbsp;&nbsp;&nbsp; ◌ React <br/>
+       &nbsp;&nbsp;&nbsp; ◌ TypeScript <br/>
+       &nbsp;&nbsp;&nbsp; ◌ CoPilot <br/>
 • 📖 Notebooks  
        &nbsp;&nbsp;&nbsp; ◌ [SPFx](https://github.com/Diksha-Bhura/SPFx)  
        &nbsp;&nbsp;&nbsp; ◌ [Power Platform](https://github.com/Diksha-Bhura/PowerPlatform)  
