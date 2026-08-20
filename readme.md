@@ -7,7 +7,7 @@
        &nbsp;&nbsp;&nbsp; ◌ SPFx <br/>
        &nbsp;&nbsp;&nbsp; ◌ Power Platform  <br/>
        &nbsp;&nbsp;&nbsp; ◌ Microsoft Graph <br/>
-       &nbsp;&nbsp;&nbsp; ◌ React <br/>
+       &nbsp;&nbsp;&nbsp; ◌ ReactJs <br/>
        &nbsp;&nbsp;&nbsp; ◌ TypeScript <br/>
        &nbsp;&nbsp;&nbsp; ◌ Copilot <br/>
 • 📖 Notebooks  
