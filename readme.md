@@ -26,7 +26,7 @@
 - 🤖 Growing my depth in **M365 Copilot and Copilot Studio**
 - 🎓 Former **Microsoft Certified Trainer**, so I enjoy teaching, workshops, and community knowledge sharing
 - 💡 7 years of experience with SharePoint and Power Platform
-- 📍 London, Canada
+- 📍 Canada
 
 ## 🏅 Certifications
 
