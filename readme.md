@@ -36,10 +36,10 @@
 
 ## 🛠️ Tech Stack
 
-![Microsoft 365 Copilot](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Microsoft 365 Copilot](https://img.shields.io/badge/Microsoft_365_Copilot-742774?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![SharePoint Framework (SPFx)](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![MS Governance](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![SharePoint Framework (SPFx)](https://img.shields.io/badge/SharePoint_Framework_(SPFx)-6264A7?style=for-the-badge&logo=powerapps&logoColor=white)
+![Governance](https://img.shields.io/badge/Governance-20232A?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
@@ -49,12 +49,12 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![C# .NET](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-6264A7?style=for-the-badge&logo=azurefunctions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![HTML](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![CSS](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-742774?style=for-the-badge&logo=jira&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 📂 Featured Projects
 
