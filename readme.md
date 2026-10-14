@@ -36,7 +36,10 @@
 
 ## 🛠️ Tech Stack
 
+![Microsoft 365 Copilot](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![SharePoint Framework (SPFx)](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![MS Governance](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
@@ -44,10 +47,14 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C# .NET](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![HTML](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![CSS](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 📂 Featured Projects
 
@@ -56,7 +63,7 @@
 | 🔍 **People Search (SPFx)** | Searches employees by name, branch, manager, team and more. Shows Teams presence, org chart, and profile photo via Graph, with chat/call actions. | SPFx, React, TypeScript, Graph API |
 | ✅ **Page Publishing Workflow** | Approval flow for SharePoint pages. Permissions change with page status, and the Save/Publish buttons are customized. | SPFx, Power Automate, Graph API |
 | 🧪 **Automated Test Scripts** | Excel-driven Selenium tests that validate a SharePoint web part and log pass/fail reasons. | C#, .NET, Selenium |
-| 🎧 **IT Helpdesk Hub** *(in progress)* | Service request app with a Copilot Studio agent for ticket help. | Canvas app, Dataverse, Power Automate, Copilot Studio |
+<!--| 🎧 **IT Helpdesk Hub** *(in progress)* | Service request app with a Copilot Studio agent for ticket help. | Canvas app, Dataverse, Power Automate, Copilot Studio |-->
 
 ## 📖 Portfolio
 
